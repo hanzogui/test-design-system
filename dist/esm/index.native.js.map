@@ -1,0 +1,1 @@
+{"version":3,"names":["View","styled","Text","MyStack","backgroundColor","MySizableText","name"],"sources":["../../src/index.ts"],"sourcesContent":[null],"mappings":"AAAA,SAASA,IAAA,EAAMC,MAAA,EAAQC,IAAA,QAAY;AAE5B,IAAAC,OAAM,GAAAF,MAAU,CAAAD,IAAO;EAC5BI,eAAA,EAAiB;AACnB,CAAC;AAEM,IAAAC,aAAM,GAAAJ,MAAgB,CAAAC,IAAO;EAClCI,IAAA,EAAM;EACNF,eAAA,EAAiB;AACnB,CAAC","ignoreList":[]}
